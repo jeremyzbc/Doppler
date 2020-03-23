@@ -1,4 +1,4 @@
-# ReactJS Table Sorting Task #
+# Coding Task #
 
 
 ## Setup ##
